@@ -4,11 +4,11 @@ kuerzel: kickoff
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-10-13 10:00
+termine: 2021-04-13 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
+Raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 info: 
 ---
 
@@ -16,7 +16,7 @@ info:
 ## Wie läuft die Veranstaltung ab?
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell in einem Zoom Raum.
 
-Wir treffen uns [in diesem Raum](https://webconf.vc.dfn.de/mi-bachelor-pp-seminar/). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
+Wir treffen uns [in diesem Raum](https://th-koeln.zoom.us/j/86224491085) (Passwort steht im Ilias). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
 
 Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
 

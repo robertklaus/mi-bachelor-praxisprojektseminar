@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-10-27 10:00
+termine: 2021-04-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -29,7 +29,7 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 ## Was muss vorbereitet werden?
 
-- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1671646&client_id=ILIAS_FH_Koeln) bis zum 26. Oktober hochladen
+- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1841500&client_id=ILIAS_FH_Koeln) bis zum 26. Aprill hochladen
 - Kurzvortrag zum eigenen Themenfeld
 - 3-5 Fragen an das Plenum zum eigenen Thema
 
